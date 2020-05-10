@@ -1,6 +1,5 @@
 /****************************************************************************
  * Name : Tom Wallenstein
- * NetID : tw496
  * 
  * Execution: java Suduko nameOfTextFile
  *  
